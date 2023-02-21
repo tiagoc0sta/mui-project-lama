@@ -7,6 +7,7 @@ import Sidebar from './components/Sidebar';
 function App() {
   return (
     <box>
+      <Navbar />
       <Stack direction='row' spacing={2} justifyContent='space-between'>
         <Sidebar />
         <Feed />
