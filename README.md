@@ -26,5 +26,3 @@ Technologies used:
 ## Web App
 
 ![image](https://user-images.githubusercontent.com/63982700/221709843-6b80b558-cc58-45e4-b2a3-e595a9bc8767.png)
-
-## Mobile
